@@ -6,27 +6,42 @@
 </p>
 
 <p align="center">
-  <a href="https://sbti-wiki.pages.dev">
-    <img alt="Vercel (海外)" src="https://img.shields.io/badge/🌍 Vercel-sbti--wiki.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://sbti-wiki.ssdwgg.site">
+    <img alt="VPS 主站" src="https://img.shields.io/badge/🚀 主站-sbti--wiki.ssdwgg.site-4CAF50?style=for-the-badge">
   </a>
   &nbsp;
-  <a href="https://sbti-wiki.pages.dev">
-    <img alt="Cloudflare Pages (大陆友好)" src="https://img.shields.io/badge/🇨🇳 Cloudflare-sbti--wiki.pages.dev-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <a href="https://sbti-wiki.aiwgg.cn">
+    <img alt="VPS 镜像" src="https://img.shields.io/badge/🔗 镜像-sbti--wiki.aiwgg.cn-2196F3?style=for-the-badge">
+  </a>
+  &nbsp;
+  <a href="https://ssdwgg.github.io/sbti-wiki">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/📦 GitHub_Pages-ssdwgg.github.io/sbti--wiki-222222?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sbti-wiki.pages.dev"><strong>👉 手机浏览推荐使用网页版 👈</strong></a><br>
-  <sub>支持深色模式、弹窗详情、一键分享、深链接</sub>
+  <a href="https://sbti-wiki.vercel.app">
+    <img alt="Vercel" src="https://img.shields.io/badge/🌍 Vercel-sbti--wiki.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://sbti-wiki.pages.dev">
+    <img alt="Cloudflare Pages" src="https://img.shields.io/badge/🇨🇳 Cloudflare-sbti--wiki.pages.dev-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sbti-wiki.ssdwgg.site"><strong>👉 手机浏览推荐使用网页版 👈</strong></a><br>
+  <sub>支持深色模式、弹窗详情、一键分享、深链接 · push 即部署</sub>
 </p>
 
 <blockquote align="center">
 <strong>🇨🇳 中国大陆用户访问指南</strong><br>
-Vercel 在国内通常被 QoS 降速。推荐按顺序尝试：<br>
-1️⃣ <strong><a href="https://sbti-wiki.pages.dev">Cloudflare Pages 镜像</a></strong>（与原测试站点 sbti.fancc.de5.net 同一套基础设施，部分地区能直连）<br>
-2️⃣ 直接浏览 <strong><a href="outcomes/">GitHub 仓库里的 Markdown</a></strong>（GitHub 在国内时好时坏但基本能看）<br>
-3️⃣ 通过 <a href="https://ghproxy.com/">ghproxy</a> 等镜像站访问本 repo<br>
-4️⃣ 使用 VPN / 代理访问 Vercel 版本
+推荐按顺序尝试：<br>
+1️⃣ <strong><a href="https://sbti-wiki.pages.dev">Cloudflare Pages 镜像</a></strong>（与原测试站点同一套基础设施，部分地区能直连）<br>
+2️⃣ <strong><a href="https://sbti-wiki.ssdwgg.site">VPS 主站</a></strong> / <a href="https://sbti-wiki.aiwgg.cn">镜像站</a>（国内服务器，速度最快）<br>
+3️⃣ <strong><a href="https://ssdwgg.github.io/sbti-wiki">GitHub Pages</a></strong>（GitHub 全球 CDN）<br>
+4️⃣ 直接浏览 <strong><a href="outcomes/">GitHub 仓库里的 Markdown</a></strong><br>
+5️⃣ 通过 <a href="https://ghproxy.com/">ghproxy</a> 等镜像站访问本 repo
 </blockquote>
 
 <p align="center">
