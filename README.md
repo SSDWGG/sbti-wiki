@@ -6,54 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sbti-wiki.ssdwgg.site">
-    <img alt="VPS 主站" src="https://img.shields.io/badge/🚀 主站-sbti--wiki.ssdwgg.site-4CAF50?style=for-the-badge">
-  </a>
-  &nbsp;
-  <a href="https://sbti-wiki.aiwgg.cn">
-    <img alt="VPS 镜像" src="https://img.shields.io/badge/🔗 镜像-sbti--wiki.aiwgg.cn-2196F3?style=for-the-badge">
-  </a>
-  &nbsp;
-  <a href="https://ssdwgg.github.io/sbti-wiki">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/📦 GitHub_Pages-ssdwgg.github.io/sbti--wiki-222222?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sbti-wiki.vercel.app">
-    <img alt="Vercel" src="https://img.shields.io/badge/🌍 Vercel-sbti--wiki.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://sbti-wiki.pages.dev">
-    <img alt="Cloudflare Pages" src="https://img.shields.io/badge/🇨🇳 Cloudflare-sbti--wiki.pages.dev-F38020?style=flat-square&logo=cloudflare&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sbti-wiki.ssdwgg.site"><strong>👉 手机浏览推荐使用网页版 👈</strong></a><br>
-  <sub>支持深色模式、弹窗详情、一键分享、深链接 · push 即部署</sub>
-</p>
-
-<blockquote align="center">
-<strong>🇨🇳 中国大陆用户访问指南</strong><br>
-推荐按顺序尝试：<br>
-1️⃣ <strong><a href="https://sbti-wiki.pages.dev">Cloudflare Pages 镜像</a></strong>（与原测试站点同一套基础设施，部分地区能直连）<br>
-2️⃣ <strong><a href="https://sbti-wiki.ssdwgg.site">VPS 主站</a></strong> / <a href="https://sbti-wiki.aiwgg.cn">镜像站</a>（国内服务器，速度最快）<br>
-3️⃣ <strong><a href="https://ssdwgg.github.io/sbti-wiki">GitHub Pages</a></strong>（GitHub 全球 CDN）<br>
-4️⃣ 直接浏览 <strong><a href="outcomes/">GitHub 仓库里的 Markdown</a></strong><br>
-5️⃣ 通过 <a href="https://ghproxy.com/">ghproxy</a> 等镜像站访问本 repo
-</blockquote>
-
-<p align="center">
-  <a href="https://sbti.fancc.de5.net"><img alt="原测试" src="https://img.shields.io/badge/原测试-sbti.fancc.de5.net-4CAF50?style=flat-square"></a>
-  <img alt="总结局数" src="https://img.shields.io/badge/结局-27 种-blue?style=flat-square">
-  <img alt="题目数" src="https://img.shields.io/badge/题目-30 + 1 隐藏-orange?style=flat-square">
-  <img alt="维度" src="https://img.shields.io/badge/维度-15 维-purple?style=flat-square">
-  <a href="https://github.com/bingran-you/sbti-cli"><img alt="基于 sbti-cli" src="https://img.shields.io/badge/基于-sbti--cli-lightgrey?style=flat-square"></a>
-  <img alt="语言" src="https://img.shields.io/badge/语言-简体中文-red?style=flat-square">
-</p>
-
-<p align="center">
   <img src="images/CTRL.png"   width="130" alt="CTRL">
   <img src="images/BOSS.png"   width="130" alt="BOSS">
   <img src="images/SEXY.png"   width="130" alt="SEXY">
@@ -66,16 +18,23 @@
 
 ## 📖 目录
 
-- [这是什么](#-这是什么)
+- [📖 目录](#-目录)
 - [📱 在线网页版（手机推荐）](#-在线网页版手机推荐)
-- [如何看懂你的结果](#-如何看懂你的结果)
-- [十五维度一览](#-十五维度一览)
-- [27 种结局图鉴](#-27-种结局图鉴)
+- [🎯 这是什么](#-这是什么)
+- [🧭 如何看懂你的结果](#-如何看懂你的结果)
+- [🧬 十五维度一览](#-十五维度一览)
+- [📊 理论稀有度排行榜](#-理论稀有度排行榜)
+  - [🏆 最稀有 TOP 5](#-最稀有-top-5)
+  - [📈 最常见 TOP 5](#-最常见-top-5)
+- [🎭 27 种结局图鉴](#-27-种结局图鉴)
   - [标准人格（25 种）](#标准人格25-种)
   - [特殊人格（2 种）](#特殊人格2-种)
-- [数据来源与原理](#-数据来源与原理)
-- [鸣谢](#-鸣谢)
-- [License](#-license)
+- [🔬 数据来源与原理](#-数据来源与原理)
+  - [为什么能做到字节级一致](#为什么能做到字节级一致)
+  - [形象插画从哪里来](#形象插画从哪里来)
+  - [完整数据表](#完整数据表)
+- [🙏 鸣谢](#-鸣谢)
+- [📄 License](#-license)
 
 ---
 
